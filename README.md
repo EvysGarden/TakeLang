@@ -55,4 +55,7 @@ Py: but despite everyones' expectations, this is stupid :/
 
 ---
 
+
+The code is very dumm as it was just a poc and it only supports C and Python currently.
+
 *brainfuck not included
