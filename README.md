@@ -2,7 +2,6 @@
 
 # Take(Lang)
 *A language to take them all*
----
 
 ---
 
